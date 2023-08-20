@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ThreadTest": {
+      "commandName": "Project",
+      "commandLineArgs": "16 16 100 100 1000000 10"
+    }
+  }
+}
